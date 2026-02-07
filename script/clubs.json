@@ -9,7 +9,16 @@
     "postcode": "NP11 5GQ",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abercarn-RFC.png"
+    "logoUrl": "Abercarn-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 13,
@@ -21,7 +30,16 @@
     "postcode": "NP7 5SG",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abergavenny RFC.png"
+    "logoUrl": "Abergavenny RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 14,
@@ -33,7 +51,16 @@
     "postcode": "NP13 1TU",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abertillery-BG-RFC.png"
+    "logoUrl": "Abertillery-BG-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 15,
@@ -45,7 +72,16 @@
     "postcode": "CF83 8DZ",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bedwas RFC.png"
+    "logoUrl": "Bedwas RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 16,
@@ -57,7 +93,16 @@
     "postcode": "NP20 7XE",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bettws-RFC.png"
+    "logoUrl": "Bettws-RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 17,
@@ -69,7 +114,16 @@
     "postcode": "NP12 1NY",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Blackwood-RFC.png"
+    "logoUrl": "Blackwood-RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 18,
@@ -81,7 +135,16 @@
     "postcode": "NP4 9DU",
     "tags": null,
     "training_days": null,
-    "logoUrl": "BLAENAVON-RFC.png"
+    "logoUrl": "BLAENAVON-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 19,
@@ -93,7 +156,16 @@
     "postcode": "NP13 3AY",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Blaina-RFC.png"
+    "logoUrl": "Blaina-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 20,
@@ -105,7 +177,16 @@
     "postcode": "NP23 4EF",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Brynithel RFC.png"
+    "logoUrl": "Brynithel RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 21,
@@ -117,7 +198,16 @@
     "postcode": "NP23 4EF",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Brynmawr RFC.png"
+    "logoUrl": "Brynmawr RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 22,
@@ -129,7 +219,16 @@
     "postcode": "NP26 4JW",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Caldicot.png"
+    "logoUrl": "Caldicot.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 23,
@@ -141,7 +240,16 @@
     "postcode": "NP16 5UP",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Chepstow.png"
+    "logoUrl": "Chepstow.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 24,
@@ -153,7 +261,16 @@
     "postcode": "NP44 2HJ",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Croesyceiliog RFC.png"
+    "logoUrl": "Croesyceiliog RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 25,
@@ -165,7 +282,16 @@
     "postcode": "NP11 7BS",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cross Keys.png"
+    "logoUrl": "Cross Keys.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 26,
@@ -177,7 +303,16 @@
     "postcode": "NP11 4PN",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Crumlin RFC.png"
+    "logoUrl": "Crumlin RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 27,
@@ -189,7 +324,16 @@
     "postcode": "NP44 1NY",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmbran-RFC.png"
+    "logoUrl": "Cwmbran-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 28,
@@ -201,7 +345,16 @@
     "postcode": "NP23 5AZ",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Ebbw Vale.png"
+    "logoUrl": "Ebbw Vale.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 29,
@@ -213,7 +366,16 @@
     "postcode": "NP12 3UD",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Fleur de Lys RFC.png"
+    "logoUrl": "Fleur de Lys RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 30,
@@ -225,7 +387,16 @@
     "postcode": "NP4 7SF",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Garndiffaith-RFC.png"
+    "logoUrl": "Garndiffaith-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 31,
@@ -237,7 +408,16 @@
     "postcode": "NP13 2RX",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanhilleth RFC.png"
+    "logoUrl": "Llanhilleth RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 45,
@@ -249,7 +429,16 @@
     "postcode": "NP23 6BP",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Ebbw Vale.png"
+    "logoUrl": "Ebbw Vale.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 55,
@@ -261,7 +450,16 @@
     "postcode": "CF62 9TH",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Barry-RFC.png"
+    "logoUrl": "Barry-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 56,
@@ -273,7 +471,16 @@
     "postcode": "CF11 8BR",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Canton-RFC.png"
+    "logoUrl": "Canton-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 57,
@@ -285,7 +492,16 @@
     "postcode": "CF10 1JA",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff RFC.png"
+    "logoUrl": "Cardiff RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 58,
@@ -297,7 +513,16 @@
     "postcode": "CF14 7JN",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff-Quins.png"
+    "logoUrl": "Cardiff-Quins.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 59,
@@ -309,7 +534,16 @@
     "postcode": "CF10 1JA",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff-Medicals-RFC.png"
+    "logoUrl": "Cardiff-Medicals-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 60,
@@ -321,7 +555,16 @@
     "postcode": "CF10 3AT",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff-University-RFC.png"
+    "logoUrl": "Cardiff-University-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 61,
@@ -333,7 +576,16 @@
     "postcode": "CF71 7DB",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cowbridge-RFC.png"
+    "logoUrl": "Cowbridge-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 62,
@@ -345,7 +597,16 @@
     "postcode": "CF64 4DL",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dinas-Powys-RFC.png"
+    "logoUrl": "Dinas-Powys-RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 63,
@@ -357,7 +618,16 @@
     "postcode": "CF5 3RN",
     "tags": null,
     "training_days": null,
-    "logoUrl": "Fairwater RFC.png"
+    "logoUrl": "Fairwater RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 64,
@@ -369,7 +639,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glamorgan Wanderers RFC.png"
+    "logoUrl": "Glamorgan Wanderers RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 65,
@@ -381,7 +660,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandaff RFC.png"
+    "logoUrl": "Llandaff RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 66,
@@ -393,7 +681,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandaff North.png"
+    "logoUrl": "Llandaff North.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 67,
@@ -405,7 +702,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanharan RFC.png"
+    "logoUrl": "Llanharan RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 68,
@@ -417,7 +723,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanishen RFC.png"
+    "logoUrl": "Llanishen RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 81,
@@ -429,7 +744,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff Met.png"
+    "logoUrl": "Cardiff Met.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 82,
@@ -441,7 +765,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "ABERCWMBOI RFC.png"
+    "logoUrl": "ABERCWMBOI RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 83,
@@ -453,7 +786,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abercynon RFC.png"
+    "logoUrl": "Abercynon RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 84,
@@ -465,7 +807,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberdare.PNG"
+    "logoUrl": "Aberdare.PNG",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 85,
@@ -477,7 +828,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bargoed RFC.png"
+    "logoUrl": "Bargoed RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 86,
@@ -489,7 +849,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Beddau RFC.png"
+    "logoUrl": "Beddau RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 88,
@@ -501,7 +870,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Brecon-RFC.png"
+    "logoUrl": "Brecon-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 89,
@@ -513,7 +891,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Builth Wells RFC.png"
+    "logoUrl": "Builth Wells RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 90,
@@ -525,7 +912,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "CaerphillyArtboard.png"
+    "logoUrl": "CaerphillyArtboard.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 91,
@@ -537,7 +933,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cefn Coed RFC.png"
+    "logoUrl": "Cefn Coed RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 92,
@@ -549,7 +954,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cifynydd RFC.png"
+    "logoUrl": "Cifynydd RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 93,
@@ -561,7 +975,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Deri RFC.png"
+    "logoUrl": "Deri RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 95,
@@ -573,7 +996,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Ferndale-RFC.png"
+    "logoUrl": "Ferndale-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 96,
@@ -585,7 +1017,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Gilfach Goch RFC.png"
+    "logoUrl": "Gilfach Goch RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 97,
@@ -597,7 +1038,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Gwernyfed Pos.png"
+    "logoUrl": "Gwernyfed Pos.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 98,
@@ -609,7 +1059,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Hirwaun-RFC K.png"
+    "logoUrl": "Hirwaun-RFC K.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 99,
@@ -621,7 +1080,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llantrisant RFC.png"
+    "logoUrl": "Llantrisant RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 100,
@@ -633,7 +1101,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llantwit Fardre RFC.png"
+    "logoUrl": "Llantwit Fardre RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 117,
@@ -645,7 +1122,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberavon-Green-Stars.png"
+    "logoUrl": "Aberavon-Green-Stars.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 118,
@@ -657,7 +1143,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberavon-Harlequins-RFC.png"
+    "logoUrl": "Aberavon-Harlequins-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 119,
@@ -669,7 +1164,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Baglan RFC.png"
+    "logoUrl": "Baglan RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 122,
@@ -681,7 +1185,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bridgend-01.png"
+    "logoUrl": "Bridgend-01.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 123,
@@ -693,7 +1206,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bridgend-Athletic-RFC-Ltd.png"
+    "logoUrl": "Bridgend-Athletic-RFC-Ltd.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 124,
@@ -705,7 +1227,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bridgend Sports RFC.png"
+    "logoUrl": "Bridgend Sports RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 125,
@@ -717,7 +1248,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Briton Ferry RFC.png"
+    "logoUrl": "Briton Ferry RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 126,
@@ -729,7 +1269,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bryncoch RFC.png"
+    "logoUrl": "Bryncoch RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 127,
@@ -741,7 +1290,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cefn Cribwr AC.png"
+    "logoUrl": "Cefn Cribwr AC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 129,
@@ -753,7 +1311,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmavon-RFC.png"
+    "logoUrl": "Cwmavon-RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 130,
@@ -765,7 +1332,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glyncorrwg RFC.png"
+    "logoUrl": "Glyncorrwg RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 131,
@@ -777,7 +1353,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Heol Y Cyw RFC.png"
+    "logoUrl": "Heol Y Cyw RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 132,
@@ -789,7 +1374,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Kenfig Hill Ladies.png"
+    "logoUrl": "Kenfig Hill Ladies.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 151,
@@ -801,7 +1395,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abercrave RFC.png"
+    "logoUrl": "Abercrave RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 152,
@@ -813,7 +1416,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Alltwen-RFC.png"
+    "logoUrl": "Alltwen-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 153,
@@ -825,7 +1437,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Banwen RFC.png"
+    "logoUrl": "Banwen RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 154,
@@ -837,7 +1458,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Birchgrove-RFC.png"
+    "logoUrl": "Birchgrove-RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 155,
@@ -849,7 +1479,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bonymaen_RFC.png"
+    "logoUrl": "Bonymaen_RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 156,
@@ -861,7 +1500,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Crynant RFC.png"
+    "logoUrl": "Crynant RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 157,
@@ -873,7 +1521,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmgwrach RFC.png"
+    "logoUrl": "Cwmgwrach RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 158,
@@ -885,7 +1542,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmllynfell-RFC.png"
+    "logoUrl": "Cwmllynfell-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 159,
@@ -897,7 +1563,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmtwrch RFC.png"
+    "logoUrl": "Cwmtwrch RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 160,
@@ -909,7 +1584,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dunvant RFC.png"
+    "logoUrl": "Dunvant RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 161,
@@ -921,7 +1605,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glais-RFC.png"
+    "logoUrl": "Glais-RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 162,
@@ -933,7 +1626,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glynneath RFC.png"
+    "logoUrl": "Glynneath RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 176,
@@ -945,7 +1647,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Amman United RFC.png"
+    "logoUrl": "Amman United RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 177,
@@ -957,7 +1668,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Ammanford RFC.png"
+    "logoUrl": "Ammanford RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 179,
@@ -969,7 +1689,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Brynamman RFC.png"
+    "logoUrl": "Brynamman RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 180,
@@ -981,7 +1710,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cefneithin RFC.png"
+    "logoUrl": "Cefneithin RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 181,
@@ -993,7 +1731,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmgors RFC.png"
+    "logoUrl": "Cwmgors RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 182,
@@ -1005,7 +1752,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Gorseinon RFC.png"
+    "logoUrl": "Gorseinon RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 183,
@@ -1017,7 +1773,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Gowerton-RFC.png"
+    "logoUrl": "Gowerton-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 184,
@@ -1029,7 +1794,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Hendy RFC.png"
+    "logoUrl": "Hendy RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 185,
@@ -1041,7 +1815,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "LLANDEILO RFC.png"
+    "logoUrl": "LLANDEILO RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 186,
@@ -1053,7 +1836,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandovery RFC.png"
+    "logoUrl": "Llandovery RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 187,
@@ -1065,7 +1857,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandybie RFC.png"
+    "logoUrl": "Llandybie RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 188,
@@ -1077,7 +1878,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llangennech RFC.png"
+    "logoUrl": "Llangennech RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 197,
@@ -1089,7 +1899,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Burry Port RFC.png"
+    "logoUrl": "Burry Port RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 198,
@@ -1101,7 +1920,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bynea RFC.png"
+    "logoUrl": "Bynea RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 199,
@@ -1113,7 +1941,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Carmarthen Quins.png"
+    "logoUrl": "Carmarthen Quins.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 200,
@@ -1125,7 +1962,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Carmarthen Athletic RFC.png"
+    "logoUrl": "Carmarthen Athletic RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 202,
@@ -1137,7 +1983,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Felinfoel-RFC.png"
+    "logoUrl": "Felinfoel-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 203,
@@ -1149,7 +2004,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Furnace United RFC.png"
+    "logoUrl": "Furnace United RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 204,
@@ -1161,7 +2025,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Kidwelly RFC.png"
+    "logoUrl": "Kidwelly RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 205,
@@ -1173,7 +2046,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Lampeter College Old Boys.png"
+    "logoUrl": "Lampeter College Old Boys.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 206,
@@ -1185,7 +2067,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Lampeter Town RFC.png"
+    "logoUrl": "Lampeter Town RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 207,
@@ -1197,7 +2088,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Laugharne RFC.png"
+    "logoUrl": "Laugharne RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 209,
@@ -1209,7 +2109,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanelli Wanderers RFC.png"
+    "logoUrl": "Llanelli Wanderers RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 216,
@@ -1221,7 +2130,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberaeron.png"
+    "logoUrl": "Aberaeron.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 217,
@@ -1233,7 +2151,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberystwyth RFC.png"
+    "logoUrl": "Aberystwyth RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 218,
@@ -1245,7 +2172,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberystwyth University RFC.png"
+    "logoUrl": "Aberystwyth University RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 219,
@@ -1257,7 +2193,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberteifi Cardigan-Creast.png"
+    "logoUrl": "Aberteifi Cardigan-Creast.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 220,
@@ -1269,7 +2214,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Crymych RFC.png"
+    "logoUrl": "Crymych RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 221,
@@ -1281,7 +2235,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Fishguard-&-Goodwick-RFC.png"
+    "logoUrl": "Fishguard-&-Goodwick-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 222,
@@ -1293,7 +2256,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Haverfordwest RFC.png"
+    "logoUrl": "Haverfordwest RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 223,
@@ -1305,7 +2277,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llangwm RFC.png"
+    "logoUrl": "Llangwm RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 232,
@@ -1317,7 +2298,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bala RFC.png"
+    "logoUrl": "Bala RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 233,
@@ -1329,7 +2319,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bangor RFC.png"
+    "logoUrl": "Bangor RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 235,
@@ -1341,7 +2340,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bangor University RFC.png"
+    "logoUrl": "Bangor University RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 236,
@@ -1353,7 +2361,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bethesda RFC.png"
+    "logoUrl": "Bethesda RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 237,
@@ -1365,7 +2382,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Caernarfon RFC.png"
+    "logoUrl": "Caernarfon RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 238,
@@ -1377,7 +2403,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Colwyn-Bay-RFC.png"
+    "logoUrl": "Colwyn-Bay-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 239,
@@ -1389,7 +2424,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Dinbych.png"
+    "logoUrl": "Clwb Rygbi Dinbych.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 240,
@@ -1401,7 +2445,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dolgellau RFC.png"
+    "logoUrl": "Dolgellau RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 241,
@@ -1413,7 +2466,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandudno RFC.png"
+    "logoUrl": "Llandudno RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 242,
@@ -1425,7 +2487,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llangefni RFC.png"
+    "logoUrl": "Llangefni RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 243,
@@ -1437,7 +2508,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanidloes RFC.png"
+    "logoUrl": "Llanidloes RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 245,
@@ -1449,7 +2529,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Nant Conwy.png"
+    "logoUrl": "Clwb Rygbi Nant Conwy.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 273,
@@ -1461,7 +2550,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bro Ffestiniog RFC.png"
+    "logoUrl": "Bro Ffestiniog RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 277,
@@ -1473,7 +2571,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "COBRA RFC.png"
+    "logoUrl": "COBRA RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 283,
@@ -1485,7 +2592,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff Rugby 2021.png"
+    "logoUrl": "Cardiff Rugby 2021.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 284,
@@ -1497,7 +2613,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dragons RFC.png"
+    "logoUrl": "Dragons RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 287,
@@ -1509,7 +2634,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abertysswg RFC.png"
+    "logoUrl": "Abertysswg RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 296,
@@ -1521,7 +2655,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bryncethin-RFC.png"
+    "logoUrl": "Bryncethin-RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 297,
@@ -1533,7 +2676,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Hartridge RFC.png"
+    "logoUrl": "Hartridge RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 298,
@@ -1545,7 +2697,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glyncoch RFC.png"
+    "logoUrl": "Glyncoch RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 299,
@@ -1557,7 +2718,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cambrian-Welfare-RFC.png"
+    "logoUrl": "Cambrian-Welfare-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 300,
@@ -1569,7 +2739,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "CCRCC.png"
+    "logoUrl": "CCRCC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 301,
@@ -1581,7 +2760,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Fall-Bay-RFC.png"
+    "logoUrl": "Fall-Bay-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 302,
@@ -1593,7 +2781,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "CAERLEON RFC .png"
+    "logoUrl": "CAERLEON RFC .png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 353,
@@ -1605,7 +2802,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Hafodyrynys-RFC.png"
+    "logoUrl": "Hafodyrynys-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 354,
@@ -1617,7 +2823,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "CIACS RFC.png"
+    "logoUrl": "CIACS RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 356,
@@ -1629,7 +2844,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Beaufort RFC.png"
+    "logoUrl": "Beaufort RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 357,
@@ -1641,7 +2865,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Mynydd Y Garreg.png"
+    "logoUrl": "Clwb Rygbi Mynydd Y Garreg.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 361,
@@ -1653,7 +2886,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Aberbeeg-RFC.png"
+    "logoUrl": "Aberbeeg-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 362,
@@ -1665,7 +2907,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff-Saracens-RFC.png"
+    "logoUrl": "Cardiff-Saracens-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 363,
@@ -1677,7 +2928,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Gilfach Goch RFC.png"
+    "logoUrl": "Gilfach Goch RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 366,
@@ -1689,7 +2949,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Porthaethwy ��� Menai Bridge RFC.png"
+    "logoUrl": "Clwb Rygbi Porthaethwy ��� Menai Bridge RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 369,
@@ -1701,7 +2970,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmcarn-RFC.png"
+    "logoUrl": "Cwmcarn-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 371,
@@ -1713,7 +2991,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Caerau Ely RFC.png"
+    "logoUrl": "Caerau Ely RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 373,
@@ -1725,7 +3012,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llandrindod Wells RFC.png"
+    "logoUrl": "Llandrindod Wells RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 374,
@@ -1737,7 +3033,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abersychan-Alexanders-RFC.png"
+    "logoUrl": "Abersychan-Alexanders-RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 377,
@@ -1749,7 +3054,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llanrumney RFC.png"
+    "logoUrl": "Llanrumney RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 379,
@@ -1761,7 +3075,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cathays-RFC.png"
+    "logoUrl": "Cathays-RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 381,
@@ -1773,7 +3096,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Benllech RFC.png"
+    "logoUrl": "Benllech RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 386,
@@ -1785,7 +3117,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bedwellty-RFC.png"
+    "logoUrl": "Bedwellty-RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 388,
@@ -1797,7 +3138,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Blackwood Stars RFC.png"
+    "logoUrl": "Blackwood Stars RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 389,
@@ -1809,7 +3159,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Tregaron.png"
+    "logoUrl": "Clwb Rygbi Tregaron.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 391,
@@ -1821,7 +3180,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Ferryside-RFC.png"
+    "logoUrl": "Ferryside-RFC.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 393,
@@ -1833,7 +3201,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cefn Forest RFC.png"
+    "logoUrl": "Cefn Forest RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 397,
@@ -1845,7 +3222,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Crickhowell RFC.png"
+    "logoUrl": "Crickhowell RFC.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 402,
@@ -1857,7 +3243,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Forgeside RFC.png"
+    "logoUrl": "Forgeside RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 405,
@@ -1869,7 +3264,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Fflint.png"
+    "logoUrl": "Clwb Rygbi Fflint.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 407,
@@ -1881,7 +3285,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Abergele RFC.png"
+    "logoUrl": "Abergele RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 410,
@@ -1893,7 +3306,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Harlech RFC.png"
+    "logoUrl": "Harlech RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 412,
@@ -1905,7 +3327,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Porthmadog.png"
+    "logoUrl": "Clwb Rygbi Porthmadog.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 417,
@@ -1917,7 +3348,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Hollybush RFC.png"
+    "logoUrl": "Hollybush RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 420,
@@ -1929,7 +3369,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Bro Gwernant RFC.png"
+    "logoUrl": "Clwb Rygbi Bro Gwernant RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 432,
@@ -1941,7 +3390,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Brackla.png"
+    "logoUrl": "Brackla.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 714,
@@ -1953,7 +3411,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dulais Valley RFC.png"
+    "logoUrl": "Dulais Valley RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "10:00 AM – 6:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 1415,
@@ -1965,7 +3432,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dragons RFC.png"
+    "logoUrl": "Dragons RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 4409,
@@ -1977,7 +3453,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Glamorgan County RFC.png"
+    "logoUrl": "Glamorgan County RFC.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "10:00 AM – 6:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 5019,
@@ -1989,7 +3474,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff-Chiefs.png"
+    "logoUrl": "Cardiff-Chiefs.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 5854,
@@ -2001,7 +3495,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dragons All stars.png"
+    "logoUrl": "Dragons All stars.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "11:00 AM – 7:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7062,
@@ -2013,7 +3516,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cwmavon-RFC.png"
+    "logoUrl": "Cwmavon-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "9:00 AM – 5:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7183,
@@ -2025,7 +3537,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "East District Rugby Union.png"
+    "logoUrl": "East District Rugby Union.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7451,
@@ -2037,7 +3558,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cynon Valley Schools.png"
+    "logoUrl": "Cynon Valley Schools.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7456,
@@ -2049,7 +3579,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Blaenau-Gwent-Schools.png"
+    "logoUrl": "Blaenau-Gwent-Schools.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7457,
@@ -2061,7 +3600,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Islwyn Schools.png"
+    "logoUrl": "Islwyn Schools.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7460,
@@ -2073,7 +3621,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Bridgend Schools.png"
+    "logoUrl": "Bridgend Schools.png",
+    "opening_hours": {
+      "Mon": "11:00 AM – 7:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "12:00 PM – 8:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7471,
@@ -2085,7 +3642,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff Schools.png"
+    "logoUrl": "Cardiff Schools.png",
+    "opening_hours": {
+      "Mon": "10:00 AM – 6:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "9:00 AM – 5:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7497,
@@ -2097,7 +3663,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff Schools.png"
+    "logoUrl": "Cardiff Schools.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "11:00 AM – 7:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7761,
@@ -2109,7 +3684,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Dunvant RFC.png"
+    "logoUrl": "Dunvant RFC.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "12:00 PM – 8:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7762,
@@ -2121,7 +3705,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Crymych RFC.png"
+    "logoUrl": "Crymych RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "12:00 PM – 8:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7772,
@@ -2133,7 +3726,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Colwyn-Bay-RFC.png"
+    "logoUrl": "Colwyn-Bay-RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7773,
@@ -2145,7 +3747,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Clwb Rygbi Dinbych.png"
+    "logoUrl": "Clwb Rygbi Dinbych.png",
+    "opening_hours": {
+      "Mon": "12:00 PM – 8:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "8:00 AM – 4:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7774,
@@ -2157,7 +3768,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Llangefni RFC.png"
+    "logoUrl": "Llangefni RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "9:00 AM – 5:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7786,
@@ -2169,7 +3789,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "COBRA RFC.png"
+    "logoUrl": "COBRA RFC.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "11:00 AM – 7:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7796,
@@ -2181,7 +3810,16 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Cardiff Schools.png"
+    "logoUrl": "Cardiff Schools.png",
+    "opening_hours": {
+      "Mon": "8:00 AM – 4:00 PM",
+      "Tue": "8:00 AM – 4:00 PM",
+      "Wed": "10:00 AM – 6:00 PM",
+      "Thu": "9:00 AM – 5:00 PM",
+      "Fri": "8:00 AM – 4:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   },
   {
     "id": 7932,
@@ -2193,6 +3831,15 @@
     "postcode": null,
     "tags": null,
     "training_days": null,
-    "logoUrl": "Kenfig Hill Ladies.png"
+    "logoUrl": "Kenfig Hill Ladies.png",
+    "opening_hours": {
+      "Mon": "9:00 AM – 5:00 PM",
+      "Tue": "10:00 AM – 6:00 PM",
+      "Wed": "11:00 AM – 7:00 PM",
+      "Thu": "8:00 AM – 4:00 PM",
+      "Fri": "12:00 PM – 8:00 PM",
+      "Sat": "Closed",
+      "Sun": "Closed"
+    }
   }
 ]

@@ -78,7 +78,7 @@ export default function handler(req, res) {
       ? `https://public.wru.wales/organisation/logos/${club.logoUrl}`
       : null;
 
-const openingtime = "Monday to Friday: 8am- 6pm\nSaturday: 10am to 2pm";
+var opening_hours = club.opening_hours;
 
 function pickRandom(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -115,7 +115,7 @@ var audience = pickRandom([
     postcode,
     address,
     httpspicture,
-    openingtime,//fixed
+    opening_hours,//fixed>inherit info
     sessionType,//rand pick
     need,
     audience,

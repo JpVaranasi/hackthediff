@@ -6,6 +6,33 @@ const outputFile = './clubs.json';
 
 const rows = [];
 
+/**eg call
+const opening_hours = {
+  Mon: randomTime(),
+  Tue: randomTime(),
+  Wed: "9:00 AM – 6:00 PM",
+  Thu: "9:00 AM – 6:00 PM",
+  Fri: "9:00 AM – 5:00 PM",
+  Sat: "Closed",
+  Sun: "Closed"
+};
+
+console.log(opening_hours);
+*/
+function randomTime() {
+  const hours = [
+    "8:00 AM – 4:00 PM",
+    "9:00 AM – 5:00 PM",
+    "10:00 AM – 6:00 PM",
+    "11:00 AM – 7:00 PM",
+    "12:00 PM – 8:00 PM"
+  ];
+
+  return hours[Math.floor(Math.random() * hours.length)];
+}
+
+
+
 fs.createReadStream(inputFile)
   .pipe(parse({ columns: true, trim: true }))
   .on('data', (row) => {
@@ -54,7 +81,17 @@ fs.createReadStream(inputFile)
       training_days: list(row.training_days),
 
       // Keep original logoUrl for API to build httpspicture
-      logoUrl: row.LogoUrl?.trim() || null
+      logoUrl: row.LogoUrl?.trim() || null,
+      opening_hours : {
+  Mon: randomTime(),
+  Tue: randomTime(),
+  Wed: randomTime(),
+  Thu: randomTime(),
+  Fri: randomTime(),
+  Sat: "Closed",
+  Sun: "Closed"
+},
+
     });
   })
   .on('end', () => {
