@@ -15,6 +15,7 @@ export default function Home() {
   const [showTagMenu, setShowTagMenu] = useState(false)
   const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null)
   const [selectedClubForReviews, setSelectedClubForReviews] = useState<Club | null>(null)
+  const [selectedClubForHours, setSelectedClubForHours] = useState<Club | null>(null)
 
   // Available tags for filtering
   const availableTags = ['play', 'inclusive', 'volunteer', 'woman', 'LGBTQ']
@@ -299,7 +300,7 @@ export default function Home() {
         <div className="px-8 pb-8">
           <div className="space-y-4">
             {filteredClubs.length > 0 ? (
-              filteredClubs.map((club) => (
+              filteredClubs.map((club: any) => (
                 <div
                   key={club.id}
                   className="p-4 bg-gray-800 rounded-lg border border-gray-700 hover:border-blue-500 hover:bg-gray-750 transition cursor-pointer"
@@ -313,16 +314,16 @@ export default function Home() {
                         title="Click to view reviews"
                       >
                         {Array.from({ length: 5 }).map((_, i) => {
-                          const filled = club.rating ? Math.floor(club.rating) > i : 0
-                          const half = club.rating ? club.rating % 1 !== 0 && Math.floor(club.rating) === i : false
+                          const ratingValue = club.rating ?? 0
+                          const floor = Math.floor(ratingValue)
+                          const frac = Math.max(0, Math.min(1, ratingValue - floor))
+                          const width = i < floor ? '100%' : i === floor ? `${Math.round(frac * 100)}%` : '0%'
                           return (
                             <div key={i} className="relative">
                               <Star size={18} className="text-gray-600" />
                               <div
                                 className="absolute top-0 left-0 overflow-hidden"
-                                style={{
-                                  width: filled ? '100%' : half ? '50%' : '0%',
-                                }}
+                                style={{ width }}
                               >
                                 <Star size={18} className="text-yellow-400 fill-yellow-400" />
                               </div>
@@ -331,19 +332,33 @@ export default function Home() {
                         })}
                       </button>
                     </div>
-                    {userLocation && 'distance' in club && club.distance !== undefined && (
-                      <div className="text-sm font-semibold text-blue-400">
-                        {(club.distance as number) < 1
-                          ? `${((club.distance as number) * 1000).toFixed(0)}m`
-                          : `${(club.distance as number).toFixed(1)}km`}
-                      </div>
-                    )}
+                    <div className="flex flex-col items-end gap-1">
+                      {club.opening_hours ? (
+                        <div className="text-sm text-right">
+                          <button
+                            onClick={() => setSelectedClubForHours(club)}
+                            className="text-gray-300 hover:text-white underline text-sm"
+                            title="View opening hours"
+                          >
+                            View hours
+                          </button>
+                        </div>
+                      ) : null}
+
+                      {userLocation && 'distance' in club && club.distance !== undefined && (
+                        <div className="text-sm font-semibold text-blue-400">
+                          {(club.distance as number) < 1
+                            ? `${((club.distance as number) * 1000).toFixed(0)}m`
+                            : `${(club.distance as number).toFixed(1)}km`}
+                        </div>
+                      )}
+                    </div>
                   </div>
                   <div className="space-y-2">
                     <div>
                       <span className="text-gray-400 text-sm">Tags:</span>
                       <div className="flex gap-2 mt-1 flex-wrap">
-                        {club.tags.map((tag) => (
+                        {club.tags.map((tag: string) => (
                           <span
                             key={tag}
                             className="px-2 py-1 text-xs bg-blue-600 text-white rounded-full"
@@ -369,13 +384,13 @@ export default function Home() {
                         <p className="text-white mt-1">{club.address}</p>
                       </div>
                     )}
+
+                    {/* Opening time removed — use "View hours" to open modal */}
                   </div>
                 </div>
               ))
             ) : (
-              <div className="text-center py-8">
-                <p className="text-gray-400 text-lg">No clubs found matching "{searchQuery}"</p>
-              </div>
+              <div className="p-4 text-gray-400">No clubs found.</div>
             )}
           </div>
         </div>
@@ -427,7 +442,7 @@ export default function Home() {
             <div className="space-y-3">
               <p className="text-gray-400 text-sm font-semibold">Reviews:</p>
               {selectedClubForReviews.reviews && selectedClubForReviews.reviews.length > 0 ? (
-                selectedClubForReviews.reviews.map((review, index) => (
+                selectedClubForReviews.reviews.map((review: string, index: number) => (
                   <div key={index} className="bg-gray-700 p-3 rounded-lg">
                     <p className="text-gray-200 text-sm">{review}</p>
                   </div>
@@ -435,6 +450,35 @@ export default function Home() {
               ) : (
                 <p className="text-gray-400 text-sm">No reviews yet.</p>
               )}
+            </div>
+          </div>
+        </div>
+      )}
+      {/* Opening Hours Modal */}
+      {selectedClubForHours && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+          <div className="bg-gray-800 rounded-lg border border-gray-700 p-6 max-w-md w-full mx-4 max-h-96 overflow-y-auto">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-2xl font-bold text-white">{selectedClubForHours.name} — Opening Hours</h2>
+              <button
+                onClick={() => setSelectedClubForHours(null)}
+                className="text-gray-400 hover:text-white transition text-2xl leading-none"
+              >
+                ×
+              </button>
+            </div>
+
+            <div className="text-sm">
+              <table className="w-full text-left">
+                <tbody>
+                  {Object.entries(selectedClubForHours.opening_hours as Record<string, string>).map(([day, hours]) => (
+                    <tr key={day} className="border-b border-gray-700">
+                      <td className="py-2 pr-4 text-gray-300 w-16">{day}</td>
+                      <td className="py-2 text-white">{hours}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
           </div>
         </div>
