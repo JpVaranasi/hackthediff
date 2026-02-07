@@ -1,3 +1,7 @@
+export type OpeningTimes = {
+  [day: string]: { open: string; close: string };
+};
+
 export type Club = {
   id: number;
   name: string;
@@ -10,9 +14,7 @@ export type Club = {
   httpspicture?: string;
   rating?: number;
   reviews?: string[];
-  // Optional structured opening hours, keys are days (Mon, Tue, ...)
-  openingtime?: string;
-  opening_hours?: { [day: string]: string };
+  opening_times?: OpeningTimes;
 };
 
 export const clubs: Club[] = [
