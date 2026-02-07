@@ -3,6 +3,7 @@
 
 import React, { useEffect, useRef, useState } from "react";
 import "mapbox-gl/dist/mapbox-gl.css";
+import { clubs, type Club } from "@/lib/clubs";
 
 type Marker = {
 	id: string;
@@ -17,15 +18,17 @@ interface MapViewProps {
 	style?: React.CSSProperties;
 	showLiveLocation?: boolean;
 	trackLocation?: boolean;
+	showClubs?: boolean;
 }
 
 export default function MapView({
-	center = [-122.4194, 37.7749],
+	center = [-3.1791, 51.4816],
 	zoom = 12,
 	markers = [],
 	style,
 	showLiveLocation = true,
 	trackLocation = true,
+	showClubs = true,
 }: MapViewProps) {
 	const mapContainer = useRef<HTMLDivElement | null>(null);
 	const mapRef = useRef<any | null>(null);
@@ -80,6 +83,34 @@ export default function MapView({
 				});
 
 				mapRef.current.addControl(new mapbox.NavigationControl(), "top-right");
+
+				// Add club markers
+				if (showClubs) {
+					clubs.forEach((club: Club) => {
+						const popupContent = `
+							<div style="padding: 8px; font-size: 12px;">
+								<strong style="font-size: 14px;">${club.name}</strong>
+								<div style="margin-top: 6px; color: #666;">
+									<div><strong>Tags:</strong> ${club.tags.join(", ")}</div>
+									<div style="margin-top: 4px;"><strong>Training Days:</strong> ${club.training_days.join(", ")}</div>
+								</div>
+							</div>
+						`;
+						const el = document.createElement("div");
+						el.style.width = "32px";
+						el.style.height = "40px";
+						el.style.backgroundImage = `url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32"><path fill="%23ef4444" d="M12 0C5.4 0 0 5.4 0 12c0 8.4 12 20 12 20s12-11.6 12-20c0-6.6-5.4-12-12-12zm0 16c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"/></svg>')`;
+						el.style.backgroundSize = "contain";
+						el.style.backgroundRepeat = "no-repeat";
+						el.style.cursor = "pointer";
+
+						const marker = new mapbox.Marker(el).setLngLat([club.long, club.lat]);
+						marker.setPopup(
+							new mapbox.Popup({ offset: 25 }).setHTML(popupContent)
+						);
+						marker.addTo(mapRef.current);
+					});
+				}
 
 				markers.forEach((m: any) => {
 					const marker = new mapbox.Marker().setLngLat(m.coordinates);
@@ -188,7 +219,7 @@ export default function MapView({
 	};
 
 	return (
-		<div style={{ width: "100%", backgroundColor: "#f0f0f0", borderRadius: 4, overflow: "hidden" }}>
+		<div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column" }}>
 			{error && (
 				<div style={{ color: "#b91c1c", padding: "12px 16px", backgroundColor: "#fee2e2", fontSize: 14 }}>
 					❌ {error}
@@ -199,14 +230,13 @@ export default function MapView({
 					⏳ Loading map...
 				</div>
 			)}
-			<div style={{ position: "relative" }}>
+			<div style={{ position: "relative", flex: 1, width: "100%" }}>
 				<div
 					ref={mapContainer}
 					style={{
 						width: "100%",
-						height: 400,
+						height: "100%",
 						backgroundColor: "#e5e7eb",
-						...style,
 					}}
 				/>
 				{showLiveLocation && userLocation && (
@@ -233,3 +263,5 @@ export default function MapView({
 		</div>
 	);
 }
+
+export type { Club };
