@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Mapbox setup
+
+This project uses Mapbox in `components/MapView.tsx`. To enable the map locally, create a `.env.local` file in the project root (it is gitignored by Next.js) and add your Mapbox public token:
+
+```bash
+# .env.local
+NEXT_PUBLIC_MAPBOX_TOKEN=pk.YOUR_MAPBOX_TOKEN_HERE
+```
+
+After updating environment variables, restart the dev server (`npm run dev`). For production, set the same env var in your hosting provider (Vercel, Netlify, etc.).

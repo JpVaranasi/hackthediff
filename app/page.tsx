@@ -1,4 +1,5 @@
 import {Button} from '@/components/ui/button'
+import MapView from '@/components/MapView'
 import Link from 'next/link'
 export default function Home() {
   return (
@@ -7,6 +8,7 @@ export default function Home() {
           <Link href="/discover">
           <Button>asd</Button>
           </Link>
+          <MapView />
         </main>
         </div>
 
