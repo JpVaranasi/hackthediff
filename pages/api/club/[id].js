@@ -27,7 +27,7 @@ export default function handler(req, res) {
       : null;
 
   // tags: ensure string[] or null
-  let tags = null;
+  var tags = null;
   if (Array.isArray(club.tags)) {
     tags = club.tags.map(String);
   } else if (typeof club.tags === 'string') {
@@ -38,6 +38,15 @@ export default function handler(req, res) {
     tags = parsed.length > 0 ? parsed : null;
   }
 
+  //if null
+  if (tags==null){
+  tags=pickRandom([
+  "Short notice",
+  "LGBTQ plus friendly"
+]);
+  
+  }
+  
   // training_days: ensure string[] or null
   let training_days = null;
   if (Array.isArray(club.training_days)) {
@@ -69,8 +78,33 @@ export default function handler(req, res) {
       ? `https://public.wru.wales/organisation/logos/${club.logoUrl}`
       : null;
 
-const openingtime = "8am";
+const openingtime = "Monday to Friday: 8am- 6pm\nSaturday: 10am to 2pm";
 
+function pickRandom(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+var sessionType = pickRandom([
+  "Fixture cover",
+  "Training session",
+  "Social session"
+]);
+
+var need = pickRandom([
+  "Need 1 prop, 1 winger",
+  "Need 2 flankers",
+  "Need 1 fly-half"
+]);
+
+var audience = pickRandom([
+  "Beginner friendly",
+  "Professional event"
+]);
+
+
+//console.log({ sessionType, need, audience, tags });
+
+    
 
   res.json({
     name: club.name ?? null,
@@ -81,7 +115,11 @@ const openingtime = "8am";
     postcode,
     address,
     httpspicture,
-    openingtime
+    openingtime,//fixed
+    sessionType,//rand pick
+    need,
+    audience,
+    tags
   });
 }
 
