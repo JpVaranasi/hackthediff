@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-black font-sans dark:bg-black">
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-black dark:bg-black sm:items-start">
           <Link href="/discover">
-          <Button>asd</Button>
+          <Button>Discover</Button>
           </Link>
         </main>
         </div>
