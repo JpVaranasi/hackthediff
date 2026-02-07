@@ -3,6 +3,7 @@ export type Club = {
     name:string
     lat:number
     long:number
+    httpspicture:string
     tags:string[]
     training_days:string[]
 }
@@ -13,6 +14,7 @@ export const clubs:Club[]=[
         name:"Cardiff RFC",
         lat:51.4816,
         long:-3.1791,
+        httpspicture:"https://public.wru.wales/organisation/logos/Bettws-RFC.png",//EG
         tags:["play","inclusive"],
         training_days:["Tuesday,Thursday"],
     },
