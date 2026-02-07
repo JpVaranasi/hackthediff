@@ -6,12 +6,12 @@ import { EmblaCarousel } from '@/components/EmblaCarousel';
 
 export default function GetInvolved() {
 const items = [
-    { title: 'Item 1', description: 'Description 1', image: 'public/images/cardiff lions.jpg' },
-    { title: 'Item 2', description: 'Description 2', image: '/images/item2.svg' },
-    { title: 'Item 3', description: 'Description 3', image: '/images/item3.svg' },
-    { title: 'Item 4', description: 'Description 4', image: '/images/item4.svg' },
-    { title: 'Item 5', description: 'Description 5', image: '/images/item5.svg' },
-    { title: 'Item 6', description: 'Description 6', image: '/images/item6.svg' },
+    { title: 'Item 1', description: 'Description 1', image: '/images/cardiff lions.jpg' },
+    { title: 'Item 2', description: 'Description 2', image: '/images/cardiff lions.jpg' },
+    { title: 'Item 3', description: 'Description 3', image: '/images/cardiff lions.jpg' },
+    { title: 'Item 4', description: 'Description 4', image: '/images/cardiff lions.jpg' },
+    { title: 'Item 5', description: 'Description 5', image: '/images/cardiff lions.jpg' },
+    { title: 'Item 6', description: 'Description 6', image: '/images/cardiff lions.jpg' },
 
   ];
 
@@ -19,8 +19,6 @@ const items = [
     <div>
     <ThemeToggle />
       <h1>Get Involved</h1>
-      <p>Why to get involved in Rugby? </p>
-      <p>Rugby is a team sport that promotes physical fitness, teamwork, and discipline. It builds character and fosters strong friendships.</p>
       <h2>Inclusive Rugby Clubs</h2>
       <p>Many rugby clubs welcome players of all skill levels and backgrounds. Joining a club can provide a supportive community and opportunities for personal growth.</p>
       <h2>Find ways to get involved</h2>
