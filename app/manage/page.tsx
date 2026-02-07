@@ -142,8 +142,8 @@ export default function ManagePage() {
                                 type="time"
                                 value={editForm.opening_times?.[day]?.close || "17:00"}
                                 onChange={(e) => handleInputChange("opening_times", {
-                                  ...(editForm.opening_times || {}),
-                                  [day]: { ...(editForm.opening_times?.[day] || {}), close: e.target.value }
+                                  ...editForm.opening_times,
+                                  [day]: { ...editForm.opening_times?.[day], close: e.target.value }
                                 })}
                                 className="bg-gray-700 border-gray-600 text-white text-sm"
                               />

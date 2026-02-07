@@ -36,7 +36,7 @@ export default function Home() {
           </div>
 
           {/* CTA LINKS */}
-          <div className="flex flex-col gap-4 mt-4">
+          <div className="flex flex-col gap-4 mt-4 text-gray-400">
 
             <Link
               href="/discover"
@@ -46,17 +46,17 @@ export default function Home() {
             </Link>
 
             <Link
-              href="/discover"
-              className="text-xl font-semibold hover:text-destructive transition-colors"
-            >
-              Play Now →
-            </Link>
-
-            <Link
-              href="/discover"
+              href="/get_involved"
               className="text-xl font-semibold hover:text-destructive transition-colors"
             >
               Get Involved →
+            </Link>
+
+            <Link
+              href="/play_now"
+              className="text-xl font-semibold hover:text-destructive transition-colors"
+            >
+              Play Now →
             </Link>
 
           </div>
