@@ -49,6 +49,7 @@
 :root {
   --radius: 0.625rem;
   --background: rgb(234, 233, 233);
+  --wru-red: rgb(238, 53, 36);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.145 0 0);
@@ -113,6 +114,7 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.556 0 0);
+  --wru-red: #EE3524;
 }
 
 @layer base {
