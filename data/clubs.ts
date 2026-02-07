@@ -15,9 +15,11 @@ export const clubs:Club[]=[
         name:"Cardiff RFC",
         lat:51.4816,
         long:-3.1791,
-        httpspicture:"https://public.wru.wales/organisation/logos/Bettws-RFC.png",//EG
         tags:["play","inclusive"],
         training_days:["Tuesday,Thursday"],
+        postcode:null,
+        address:null,
+        httpspicture:"https://public.wru.wales/organisation/logos/Bettws-RFC.png",//EG
     },
     {
         id:2,
