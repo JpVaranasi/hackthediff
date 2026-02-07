@@ -1,0 +1,92 @@
+CREATE TABLE clubs (
+    club_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+
+    club_photo VARCHAR(20),
+
+    facility_info CLOB,
+    teams_offered CLOB,
+    age_group VARCHAR2(100),
+
+    trainingnights VARCHAR2(255),
+    match_days VARCHAR2(255),
+
+    review_reference VARCHAR2(255),
+
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  
+);
+
+CREATE TABLE club_reviews (
+    review_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    club_id NUMBER NOT NULL,
+    reviewer_name VARCHAR2(255),
+    rating NUMBER(1) CHECK (rating BETWEEN 1 AND 5),
+    review_text CLOB,
+    review_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT fk_club_reviews
+        FOREIGN KEY (club_id)
+        REFERENCES clubs(club_id)
+        ON DELETE CASCADE
+);
+
+INSERT INTO clubs (
+    participation_way,
+    playnow,
+    club_secretary_contact,
+    club_safeguardofficer_contact,
+    safeguarding_information,
+    email,
+    phone,
+    enquiryform,
+    address,
+    location_lat,
+    location_lng,
+    location_alt,
+    short_history,
+    background,
+    club_photo,
+    facility_info,
+    teams_offered,
+    age_group,
+    trainingnights,
+    match_days,
+    review_reference
+) VALUES (
+    'Playing_senior,Volunteering_coaching,Inclusive_women',
+    'Weekend,Social',
+    '+44 7700 900111',
+    '+44 7700 900222',
+    'This club follows FA safeguarding rules with 24/7 security.',
+    'info@principalityclub.com',
+    '+44 1633 123456',
+    'https://www.enquiryprincipality.com',
+    'Principality Sports Club, Cardiff, Wales',
+    51.481583,
+    -3.179090,
+    15.5,
+    'Founded in 1998 as a community sports initiative.',
+    'The club promotes inclusivity, fitness, and teamwork.',
+    'Changing rooms, gym, floodlit pitches, parking',
+    'Men, Women, Youth, Mixed Ability',
+    'Under 10 to Over 40',
+    'Tuesday and Thursday evenings',
+    'Saturday',
+    'club_reviews'
+);
+
+COMMIT;
+
+INSERT INTO club_reviews (
+    club_id,
+    reviewer_name,
+    rating,
+    review_text
+) VALUES (
+    1,
+    'Alex Morgan',
+    5,
+    'Fantastic club with great facilities and welcoming staff.'
+);
+
+COMMIT;

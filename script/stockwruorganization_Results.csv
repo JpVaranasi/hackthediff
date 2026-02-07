@@ -1,0 +1,184 @@
+Id,Name,OrganisationTypeId,LogoUrl
+12,Abercarn RFC,1,Abercarn-RFC.png
+13,Abergavenny RFC,1,Abergavenny RFC.png
+14,Abertillery / Blaenau Gwent RFC,1,Abertillery-BG-RFC.png
+15,Bedwas RFC,1,Bedwas RFC.png
+16,Bettws (Newport) RFC,1,Bettws-RFC.png
+17,Blackwood RFC,1,Blackwood-RFC.png
+18,Blaenavon RFC,1,BLAENAVON-RFC.png
+19,Blaina RFC,1,Blaina-RFC.png
+20,Brynithel RFC,1,Brynithel RFC.png
+21,Brynmawr RFC,1,Brynmawr RFC.png
+22,Caldicot RFC,1,Caldicot.png
+23,Chepstow RFC,1,Chepstow.png
+24,Croesyceiliog RFC,1,Croesyceiliog RFC.png
+25,Cross Keys RFC,1,Cross Keys.png
+26,Crumlin RFC,1,Crumlin RFC.png
+27,Cwmbran RFC,1,Cwmbran-RFC.png
+28,Ebbw Vale RFC,1,Ebbw Vale.png
+29,Fleur de Lys RFC,1,Fleur de Lys RFC.png
+30,Garndiffaith RFC,1,Garndiffaith-RFC.png
+31,Llanhilleth RFC,1,Llanhilleth RFC.png
+45,RTB (Ebbw Vale) RFC,1,Ebbw Vale.png
+55,Barry RFC,1,Barry-RFC.png
+56,Canton RFC,1,Canton-RFC.png
+57,Cardiff RFC,1,Cardiff RFC.png
+58,Cardiff Quins RFC,1,Cardiff-Quins.png
+59,Cardiff Medicals RFC,1,Cardiff-Medicals-RFC.png
+60,Cardiff University RFC,4,Cardiff-University-RFC.png
+61,Cowbridge RFC,1,Cowbridge-RFC.png
+62,Dinas Powys RFC,1,Dinas-Powys-RFC.png
+63,Fairwater RFC,1,Fairwater RFC.png
+64,Glamorgan Wanderers RFC,1,Glamorgan Wanderers RFC.png
+65,Llandaff RFC,1,Llandaff RFC.png
+66,Llandaff North RFC,1,Llandaff North.png
+67,Llanharan RFC,1,Llanharan RFC.png
+68,Llanishen RFC,1,Llanishen RFC.png
+81,Cardiff Met RFC,1,Cardiff Met.png
+82,Abercwmboi RFC,1,ABERCWMBOI RFC.png
+83,Abercynon RFC,1,Abercynon RFC.png
+84,Aberdare RFC,1,Aberdare.PNG
+85,Bargoed RFC,1,Bargoed RFC.png
+86,Beddau RFC,1,Beddau RFC.png
+88,Brecon RFC,1,Brecon-RFC.png
+89,Builth Wells RFC,1,Builth Wells RFC.png
+90,Caerphilly RFC,1,CaerphillyArtboard.png
+91,Cefn Coed RFC,1,Cefn Coed RFC.png
+92,Cilfynydd RFC,1,Cifynydd RFC.png
+93,Deri RFC,1,Deri RFC.png
+95,Ferndale RFC,1,Ferndale-RFC.png
+96,Gilfach Goch RFC,1,Gilfach Goch RFC.png
+97,Gwernyfed RFC,1,Gwernyfed Pos.png
+98,Hirwaun RFC,1,Hirwaun-RFC K.png
+99,Llantrisant RFC,1,Llantrisant RFC.png
+100,Llantwit Fardre RFC,1,Llantwit Fardre RFC.png
+117,Aberavon Green Stars RFC,1,Aberavon-Green-Stars.png
+118,Aberavon Quins RFC,1,Aberavon-Harlequins-RFC.png
+119,Baglan RFC,1,Baglan RFC.png
+122,Bridgend RFC,1,Bridgend-01.png
+123,Bridgend Athletic RFC,1,Bridgend-Athletic-RFC-Ltd.png
+124,Bridgend Sports Club RFC,1,Bridgend Sports RFC.png
+125,Briton Ferry RFC,1,Briton Ferry RFC.png
+126,Bryncoch RFC,1,Bryncoch RFC.png
+127,Cefn Cribbwr RFC,1,Cefn Cribwr AC.png
+129,Cwmavon RFC,1,Cwmavon-RFC.png
+130,Glyncorrwg RFC,1,Glyncorrwg RFC.png
+131,Heol y Cyw RFC,1,Heol Y Cyw RFC.png
+132,Kenfig Hill RFC,1,Kenfig Hill Ladies.png
+151,Abercrave RFC,1,Abercrave RFC.png
+152,Alltwen RFC,1,Alltwen-RFC.png
+153,Banwen RFC,1,Banwen RFC.png
+154,Birchgrove RFC,1,Birchgrove-RFC.png
+155,Bonymaen RFC,1,Bonymaen_RFC.png
+156,Crynant (Creunant) RFC,1,Crynant RFC.png
+157,Cwmgwrach RFC,1,Cwmgwrach RFC.png
+158,Cwmllynfell RFC,1,Cwmllynfell-RFC.png
+159,Cwmtwrch RFC,1,Cwmtwrch RFC.png
+160,Dunvant RFC,1,Dunvant RFC.png
+161,Glais RFC,1,Glais-RFC.png
+162,Glynneath RFC,1,Glynneath RFC.png
+176,Amman United RFC,1,Amman United RFC.png
+177,Ammanford RFC,1,Ammanford RFC.png
+179,Brynamman RFC,1,Brynamman RFC.png
+180,Cefneithin RFC,1,Cefneithin RFC.png
+181,Cwmgors RFC,1,Cwmgors RFC.png
+182,Gorseinon RFC,1,Gorseinon RFC.png
+183,Gowerton RFC,1,Gowerton-RFC.png
+184,Yr Hendy RFC,1,Hendy RFC.png
+185,Llandeilo RFC,1,LLANDEILO RFC.png
+186,Llandovery RFC,1,Llandovery RFC.png
+187,Llandybie RFC,1,Llandybie RFC.png
+188,Llangennech RFC,1,Llangennech RFC.png
+197,Burry Port RFC,1,Burry Port RFC.png
+198,Bynea RFC,1,Bynea RFC.png
+199,Carmarthen RFC,1,Carmarthen Quins.png
+200,Carmarthen Athletic RFC,1,Carmarthen Athletic RFC.png
+202,Felinfoel RFC,1,Felinfoel-RFC.png
+203,Furnace United RFC,1,Furnace United RFC.png
+204,Kidwelly RFC,1,Kidwelly RFC.png
+205,Lampeter College RFC,4,Lampeter College Old Boys.png
+206,Lampeter Town RFC,1,Lampeter Town RFC.png
+207,Laugharne RFC,1,Laugharne RFC.png
+209,Llanelli Wanderers RFC,1,Llanelli Wanderers RFC.png
+216,Aberaeron RFC,1,Aberaeron.png
+217,Aberystwyth RFC,1,Aberystwyth RFC.png
+218,Aberystwyth University,4,Aberystwyth University RFC.png
+219,Cardigan RFC,1,Aberteifi Cardigan-Creast.png
+220,Clwb Rygbi Crymych,1,Crymych RFC.png
+221,Fishguard and Goodwick RFC,1,Fishguard-&-Goodwick-RFC.png
+222,Haverfordwest RFC,1,Haverfordwest RFC.png
+223,Llangwm RFC,1,Llangwm RFC.png
+232,Bala RFC,1,Bala RFC.png
+233,Bangor RFC,1,Bangor RFC.png
+235,Bangor University RFC,4,Bangor University RFC.png
+236,Bethesda RFC,1,Bethesda RFC.png
+237,Caernarfon RFC,1,Caernarfon RFC.png
+238,Colwyn Bay RFC,1,Colwyn-Bay-RFC.png
+239,Denbigh (Dinbych) RFC,1,Clwb Rygbi Dinbych.png
+240,Dolgellau RFC,1,Dolgellau RFC.png
+241,Llandudno RFC,1,Llandudno RFC.png
+242,Llangefni RFC,1,Llangefni RFC.png
+243,Llanidloes RFC,1,Llanidloes RFC.png
+245,Nant Conwy RFC,1,Clwb Rygbi Nant Conwy.png
+273,Bro Ffestiniog RFC,1,Bro Ffestiniog RFC.png
+277,COBRA,1,COBRA RFC.png
+283,Cardiff Rugby,5,Cardiff Rugby 2021.png
+284,Dragons,5,Dragons RFC.png
+287,Abertysswg Falcons,1,Abertysswg RFC.png
+296,Bryncethin RFC,1,Bryncethin-RFC.png
+297,Hartridge RFC,1,Hartridge RFC.png
+298,Glyncoch RFC,1,Glyncoch RFC.png
+299,Cambrian Welfare RFC,1,Cambrian-Welfare-RFC.png
+300,Clwb Rygbi Cymry Caerdydd RFC,1,CCRCC.png
+301,"Fall Bay RFC ",1,Fall-Bay-RFC.png
+302,Caerleon RFC,1,CAERLEON RFC .png
+353,Hafodyrynys RFC,1,Hafodyrynys-RFC.png
+354,Cardiff Internationals RFC,1,CIACS RFC.png
+356,Beaufort RFC,1,Beaufort RFC.png
+357,Mynydd-Y-Garreg RFC,1,Clwb Rygbi Mynydd Y Garreg.png
+361,Aberbeeg RFC,1,Aberbeeg-RFC.png
+362,Cardiff Saracens RFC,1,Cardiff-Saracens-RFC.png
+363,Girling RFC,1,Gilfach Goch RFC.png
+366,Menai Bridge RFC,1,Clwb Rygbi Porthaethwy – Menai Bridge RFC.png
+369,Cwmcarn United RFC,1,Cwmcarn-RFC.png
+371,Caerau Ely RFC,1,Caerau Ely RFC.png
+373,Llandrindod Wells RFC,1,Llandrindod Wells RFC.png
+374,Abersychan Alexanders RFC,1,Abersychan-Alexanders-RFC.png
+377,Llanrumney RFC,1,Llanrumney RFC.png
+379,Cathays RFC,1,Cathays-RFC.png
+381,Benllech RFC,1,Benllech RFC.png
+386,Bedwellty RFC,1,"Bedwellty-RFC.png "
+388,Blackwood Stars RFC,1,Blackwood Stars RFC.png
+389,Tregaron RFC,1,Clwb Rygbi Tregaron.png
+391,Ferryside RFC,1,Ferryside-RFC.png
+393,Cefn Fforest RFC,1,Cefn Forest RFC.png
+397,Crickhowell RFC,1,Crickhowell RFC.png
+402,Forgeside RFC,1,Forgeside RFC.png
+405,Flint RFC,1,Clwb Rygbi Fflint.png
+407,Abergele RFC,1,Abergele RFC.png
+410,Harlech RFC,1,Harlech RFC.png
+412,Porthmadog RFC,1,Clwb Rygbi Porthmadog.png
+417,Hollybush RFC,1,Hollybush RFC.png
+420,Clwb Rygbi Bro Gwernant,1,Clwb Rygbi Bro Gwernant RFC.png
+432,Brackla RFC,1,Brackla.png
+714,Dulais Valley RFC,1,Dulais Valley RFC.png
+1415,Dragons,5,Dragons RFC.png
+4409,Glamorgan County RFC,1,Glamorgan County RFC.png
+5019,Cardiff Chiefs,1,Cardiff-Chiefs.png
+5854,"Dragons All-Stars ",1,Dragons All stars.png
+7062,Cwmavon/Tondu RFC,1,Cwmavon-RFC.png
+7183,East District,1,East District Rugby Union.png
+7451,Cynon Valley Schools,6,Cynon Valley Schools.png
+7456,Blaenau Gwent Schools,6,Blaenau-Gwent-Schools.png
+7457,Islwyn Schools,6,Islwyn Schools.png
+7460,Bridgend Schools,6,Bridgend Schools.png
+7471,Cardiff Schools West,6,Cardiff Schools.png
+7497,Cardiff Schools Central,6,Cardiff Schools.png
+7761,"Dunvant RFC Athletic ",1,Dunvant RFC.png
+7762,Clwb Rygbi Crymych RFC Athletic,1,Crymych RFC.png
+7772,"Colwyn Bay RFC Athletic ",1,Colwyn-Bay-RFC.png
+7773,Denbigh (Dinbych) RFC Athletic,1,Clwb Rygbi Dinbych.png
+7774,"Llangefni RFC Athletic ",1,Llangefni RFC.png
+7786,"COBRA Athletic ",1,COBRA RFC.png
+7796,Cardiff Schools East,6,Cardiff Schools.png
+7932,Kenfig Hill RFC Athletic,1,Kenfig Hill Ladies.png

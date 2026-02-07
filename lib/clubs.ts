@@ -62,6 +62,7 @@ export const clubs: Club[] = [
       "The training sessions are well-organized and fun.",
       "Friendly members and a welcoming environment.",
     ],
+    openingtime: "Monday to Friday: 9:00 AM - 5:00 PM, Saturday: 10:00 AM - 3:00 PM, Sunday: Closed",
     opening_hours: {
       Mon: "10:00 AM – 4:00 PM",
       Tue: "10:00 AM – 6:00 PM",
@@ -89,6 +90,7 @@ export const clubs: Club[] = [
       "The training sessions are top-notch and the coaches are excellent.",
       "A welcoming and inclusive environment for players of all levels.",
     ],
+    openingtime: "Monday to Friday: 9:00 AM - 6:00 PM, Saturday: 10:00 AM - 4:00 PM, Sunday: Closed",
     opening_hours: {
       Mon: "9:30 AM – 6:30 PM",
       Tue: "9:30 AM – 6:30 PM",
