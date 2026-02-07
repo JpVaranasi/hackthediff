@@ -489,9 +489,6 @@ export default function PlayNowNetflixPage() {
           PLAY NOW
         </div>
 
-        <div className="mt-2 text-sm text-black/70">
-          Top picks rotate, search like flights, browse rows when they have results
-        </div>
 
         <div className="mt-4 rounded-3xl border border-black/10 bg-white p-4">
           <div className="flex items-center justify-between gap-3">
