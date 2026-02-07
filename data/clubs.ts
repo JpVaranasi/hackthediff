@@ -8,6 +8,7 @@ export type Club = {
     training_days:string[]
 }
 
+//EGAMPLE>{"name":"Abergavenny RFC","lat":null,"long":null,"tags":null,"training_days":null,"postcode":null,"address":null,"httpspicture":"https://public.wru.wales/organisation/logos/Abergavenny RFC.png"}
 export const clubs:Club[]=[
     {
         id:1,
