@@ -1,27 +1,6 @@
 CREATE TABLE clubs (
     club_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
 
-    participation_way VARCHAR2(255),
-    playnow VARCHAR2(100),
-
-    club_secretary_contact VARCHAR2(20),
-    club_safeguardofficer_contact VARCHAR2(20),
-
-    safeguarding_information CLOB,
-
-    email VARCHAR2(255),
-    phone VARCHAR2(20),
-
-    enquiryform VARCHAR2(255),
-
-    address CLOB,
-
-    location_lat NUMBER(10,8),
-    location_lng NUMBER(11,8),
-    location_alt NUMBER(8,2),
-
-    short_history CLOB,
-    background CLOB,
     club_photo VARCHAR(20),
 
     facility_info CLOB,
