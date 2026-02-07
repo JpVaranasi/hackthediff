@@ -3,9 +3,11 @@ export type Club = {
     name:string
     lat:number
     long:number
+    tags:string[]//nullable
+    training_days:string[]//nullable
+    postcode:int //Nullable
+    address:string,//nullable
     httpspicture:string
-    tags:string[]
-    training_days:string[]
 }
 
 //EGAMPLE>{"name":"Abergavenny RFC","lat":null,"long":null,"tags":null,"training_days":null,"postcode":null,"address":null,"httpspicture":"https://public.wru.wales/organisation/logos/Abergavenny RFC.png"}
