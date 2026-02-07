@@ -116,6 +116,10 @@
   --sidebar-ring: oklch(0.556 0 0);
   --wru-red: #EE3524;
 }
+.clip-diagonal-reverse {
+  -webkit-clip-path: polygon(15% 0, 100% 0, 100% 100%, 0 100%);
+  clip-path: polygon(15% 0, 100% 0, 100% 100%, 0 100%);
+}
 
 @layer base {
   * {
@@ -125,3 +129,4 @@
     @apply bg-background text-foreground;
   }
 }
+

@@ -1,16 +1,87 @@
-import {Button} from '@/components/ui/button'
-import MapView from '@/components/MapView'
-import Link from 'next/link'
+"use client"
+
+import { motion } from "framer-motion"
+import Link from "next/link"
+
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-black font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-black dark:bg-black sm:items-start">
-          <Link href="/discover">
-          <Button>Discover</Button>
-          </Link>
-          <MapView />
-        </main>
-        </div>
+    <main className="h-screen flex items-center justify-center bg-black">
+      <div className="w-[90%] h-[80%] flex overflow-hidden rounded-2xl shadow-2xl">
 
-  );
+        {/* LEFT SIDE */}
+        <motion.div
+          initial={{ x: -40, opacity: 0 }}
+          animate={{ x: 0, opacity: 1 }}
+          transition={{ duration: 0.6 }}
+          className="w-1/2 bg-black flex flex-col justify-center px-20 gap-4 z-10"
+        >
+          {/* Logo */}
+          <img
+            src="/images/logo.png"
+            width={90}
+            alt="WRU Logo"
+            className="mb-2"
+          />
+
+          {/* Heading */}
+          <div className="space-y-4">
+            <h1 className="text-5xl font-bold text-destructive leading-tight">
+              Find Rugby Near YOU 
+            </h1>
+
+            <p className="text-lg text-muted-foreground max-w-md">
+              Discover clubs, find matches, volunteer, and join inclusive
+              rugby communities across Wales.
+            </p>
+          </div>
+
+          {/* CTA LINKS */}
+          <div className="flex flex-col gap-4 mt-4">
+
+            <Link
+              href="/discover"
+              className="text-xl font-semibold hover:text-destructive transition-colors"
+            >
+              Discover Clubs →
+            </Link>
+
+            <Link
+              href="/discover"
+              className="text-xl font-semibold hover:text-destructive transition-colors"
+            >
+              Play Now →
+            </Link>
+
+            <Link
+              href="/discover"
+              className="text-xl font-semibold hover:text-destructive transition-colors"
+            >
+              Get Involved →
+            </Link>
+
+          </div>
+        </motion.div>
+
+
+        {/* RIGHT SIDE IMAGE */}
+        <motion.div
+          initial={{ x: 40, opacity: 0 }}
+          animate={{ x: 0, opacity: 1 }}
+          transition={{ duration: 0.6 }}
+          className="w-1/2 relative"
+        >
+          <div
+            className="absolute inset-0 bg-cover bg-center clip-diagonal-reverse"
+            style={{
+              backgroundImage: "url('/images/cardiff lions.jpg')",
+            }}
+          />
+
+          {/* subtle overlay for contrast */}
+          <div className="absolute inset-0 bg-black/20 clip-diagonal-reverse" />
+        </motion.div>
+
+      </div>
+    </main>
+  )
 }
